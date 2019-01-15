@@ -6,7 +6,7 @@ TrelloPowerUp.initialize({
       callback: function(t){
         return t.popup({
           title: "Paper Seeker",
-          url: 'estimate.html'
+          url: 'search.html'
         });
       }
     }];
