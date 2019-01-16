@@ -1,4 +1,5 @@
 
+const ARXIV = "http://export.arxiv.org/api/query?search_query=all:";
 let trello = TrelloPowerUp.iframe();
 
 window.paper.addEventListener("submit", (event) => {
